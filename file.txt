@@ -1,1 +1,2 @@
 This is the test file which created on 09/19/2021. This file is created to test Git commands. 
+This file is edited in branch2 that was created by master branch. However, there is a second line that was added in the file in branch1 but the content is differnet in this file and branch than the same file in branch1.
