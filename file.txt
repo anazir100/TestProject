@@ -1,3 +1,1 @@
-This is the test file which created on 09/19/2021. This file is created to test Git commands. 
-09/19/2021-----file.txt-----branch2
-09/19/2021-----file.txt-----branch2-----added locally
+09/20/2021-----file.txt-----branch2-----remote
