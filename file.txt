@@ -1,2 +1,0 @@
-This is the test file which created on 09/19/2021. This file is created to test Git commands. 
-09/19/2021-----branch2-----merged into master by creating pull request.
