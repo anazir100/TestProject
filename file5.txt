@@ -1,8 +1,6 @@
 09/26/2021-----file5.txt-----branch5-----local
-<<<<<<< HEAD
 01/07/2022-----file5.txt-----branch5-----local
 01/17/2022-----file5.txt-----branch5-----local
-=======
 11/02/2021-----file5.txt-----branch5-----local
 11/07/2021-----file5.txt-----branch5-----local
->>>>>>> parent of bb905b7 (branch names are consistent nowf)
+
