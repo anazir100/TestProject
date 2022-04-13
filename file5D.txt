@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 03/29/2022-----file5D.txt-----branch5-----local
 04/01/2022-----file5D.txt-----branch5-----local
 04/03/2022-----file5D.txt-----branch5-----local
 04/06/2022-----file5D.txt-----branch5-----local
-=======
-09/26/2021-----file5D.txt-----branch5-----local
-10/19/2021-----file5D.txt-----branch5-----local
->>>>>>> parent of bb905b7 (branch names are consistent nowf)
+
